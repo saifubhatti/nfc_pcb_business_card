@@ -31,9 +31,10 @@ Welcome to the NFC PCB Business Card project! This project aims to provide a tem
 
 **Manufacture the PCB:** Use the provided Gerber files to manufacture the NFC PCB business card. You can choose your preferred PCB manufacturer or fabrication service.
 
-Assemble the Business Card: Follow the assembly instructions to solder the components onto the PCB and assemble the business card.
+**Assemble the Business Card:** Follow the assembly instructions to solder the components onto the PCB and assemble the business card.
 
 ### Contributing:
 
 Contributions to the project are welcome! Whether you've discovered a bug, want to suggest an improvement, or have created your own variation of the business card, feel free to submit pull requests or open issues on GitHub.
-We hope this project inspires you to explore the possibilities of NFC technology and create innovative solutions for networking and information sharing. Happy building!
+
+I hope this project inspires you to explore the possibilities of NFC technology and create innovative solutions for networking and information sharing. Happy building!

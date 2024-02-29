@@ -13,7 +13,9 @@ Welcome to the NFC PCB Business Card project! This project aims to provide a tem
 
 **Embedded Information:** Easily embed your contact information, website URL, portfolio links, or any other relevant data onto the business card for convenient sharing.
 
-
+![Image](https://github.com/saifubhatti/nfc_pcb_business_card/blob/main/ID_Card/Pics/Screenshot%202024-02-29%20164752.png)
+![Image](https://github.com/saifubhatti/nfc_pcb_business_card/blob/main/ID_Card/Pics/Screenshot%202024-02-29%20164824.png)
+![Image](https://github.com/saifubhatti/nfc_pcb_business_card/blob/main/ID_Card/Pics/Screenshot%202024-02-29%20164850.png)
 
 ### Repository Contents:
 

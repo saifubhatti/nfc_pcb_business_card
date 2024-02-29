@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+G:\My Drive\Muhammad\HardwareDesign\02_AltiumProjects\ID_Card\ID_Card\Project Outputs for ID_Card\Pick Place\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/02/24
+Time:       00:41
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U1","NT3H2111W0FHKH","BottomLayer","XFQFN-8","1724.606","1062.992","180","NFC/RFID Tag and Transponder IC 13560kHz 1KByte Automotive 8-Pin XQFN EP T/R"
+"R1","47R","BottomLayer","R_0603","1574.803","1062.992","270","YAGEO (PHYCOMP)         RC0603FR-7W47RL             SMD Chip Resistor, Thick Film, 47 ohm, 50 V, 0603 [1608 Metric], 100 mW,  1%, RC Series"
+"L1","NFC Antenna","BottomLayer","25X48MM_NFC_ANTENNA","2325.000","1085.000","270","Antenna for NFC"
+"D1","Yellow","BottomLayer","LED_0603","1456.693","1062.992","270","APT1608SYCK Yellow LED; 590 nm 1608 (0603) Clear; Rectangle Lens SMD package"
+"C1","0.1uF","BottomLayer","C_0603","1633.858","1062.992","270","Ceramic Capacitor 0.1uF 10% X7R 50V 0603 T/R"
